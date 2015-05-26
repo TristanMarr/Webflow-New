@@ -1,0 +1,323 @@
+body {
+  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+  color: #333;
+  font-size: 14px;
+  line-height: 20px;
+}
+h1 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 38px;
+  line-height: 44px;
+  font-weight: 700;
+}
+h2 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 32px;
+  line-height: 36px;
+  font-weight: 700;
+}
+h3 {
+  margin-top: 20px;
+  margin-bottom: 10px;
+  font-size: 24px;
+  line-height: 30px;
+  font-weight: 700;
+}
+h4 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 27px;
+  line-height: 24px;
+  font-weight: 700;
+}
+h5 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 700;
+}
+h6 {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: 700;
+}
+p {
+  margin-bottom: 5px;
+  padding-top: 0px;
+  padding-bottom: 18px;
+  font-family:'Droid Sans', sans-serif;
+  font-size: 12px;
+  line-height: 22px;
+  font-weight: 400;
+}
+a {
+  font-family: Exo, sans-serif;
+  color: #e38d9e;
+  font-size: 31px;
+  font-weight: 700;
+}
+.button {
+  display: inline-block;
+  margin-top: 55%;
+  margin-left: 0px;
+  padding: 14px;
+  border-radius: 20px;
+  background-color: #d66565;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+}
+.button.hero {
+  margin-top: 170%;
+  padding: 21px;
+  border-radius: 36px;
+  background-color: #ed6666;
+  color: #fafafa;
+}
+.logo {
+  margin-left: 7%;
+  padding-left: 0px;
+}
+.menu {
+  margin-right: 5%;
+  padding: 10px;
+}
+.hero-section {
+  min-height: 700px;
+  background-image: url('../images/cover-facebook-1.jpg');
+  background-size: cover;
+}
+.menuo {
+  padding: 24px;
+  color: #ff2e2e;
+  font-size: 25px;
+  text-transform: uppercase;
+}
+.menuo:hover {
+  color: #f50031;
+}
+.navbar {
+  background-color: black;
+}
+.lgo {
+  padding-bottom: 11px;
+}
+.workdone {
+  padding: 18px 70px 70px;
+  border-bottom: 0px none black;
+  background-color: rgba(255, 255, 255, 0.8);
+}
+.done-head {
+  margin-bottom: 14px;
+  padding-bottom: 15px;
+  font-family: Exo, sans-serif;
+  color: black;
+  font-size: 60px;
+  text-align: center;
+  letter-spacing: 5px;
+}
+.default-section {
+  margin-top: 71px;
+  padding: 70px;
+}
+.default-head {
+  margin-top: 0px;
+  margin-bottom: 4px;
+  font-family: Lato, sans-serif;
+  font-size: 49px;
+  font-style: normal;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: none;
+}
+.about-us {
+  padding: 70px;
+}
+.default-con {
+  margin-top: 47px;
+}
+.default-sub {
+  margin-top: 8px;
+  border-bottom: 1px solid #e85656;
+  opacity: 0.52;
+  font-family: Lato, sans-serif;
+  font-size: 29px;
+  text-align: center;
+}
+.section-div {
+  padding: 104px;
+  background-color: #f22e2e;
+}
+.section-div._2 {
+  background-color: black;
+}
+.div-head {
+  margin-top: 0px;
+  font-family: Lato, sans-serif;
+  color: white;
+  text-align: center;
+}
+.icon {
+  font-family:'Fontawesome webfont', sans-serif;
+  color: white;
+  font-size: 71px;
+  text-align: center;
+}
+.icon-head {
+  margin-top: 26px;
+  margin-bottom: 5px;
+  font-family: Exo, sans-serif;
+  color: white;
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  letter-spacing: 0px;
+}
+.icontext {
+  color: white;
+  font-size: 19px;
+  text-align: center;
+}
+.servies {
+  padding: 70px;
+}
+.work {
+  padding: 70px;
+}
+.inquary {
+  padding: 71px;
+}
+.footer {
+  padding-top: 51px;
+  padding-bottom: 51px;
+  background-color: #544c4c;
+}
+.footer-head {
+  padding: 0px;
+  color: white;
+}
+.list {
+  padding-left: 11px;
+  list-style-type: none;
+}
+.item {
+  display: block;
+  padding-left: 10px;
+  font-family: Lato, sans-serif;
+  color: #bd8e8e;
+  font-size: 20px;
+  line-height: 29px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.item.w--current {
+  color: #bd8e8e;
+}
+.about-head {
+  font-family: Inconsolata, monospace;
+  font-size: 28px;
+  font-weight: 700;
+}
+.about-con {
+  padding-top: 29px;
+}
+.about-con-img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  padding-top: 20px;
+}
+.about-img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.about-button {
+  padding: 3px;
+  border: 1px solid #807979;
+  border-radius: 0px;
+  background-color: white;
+  color: #7d6f72;
+  font-weight: 300;
+  text-decoration: none;
+}
+.about-img2 {
+  padding-top: 29px;
+}
+.team-head {
+  margin-bottom: 5px;
+  font-family: Montserrat, sans-serif;
+}
+.team-p {
+  font-size: 16px;
+}
+.team-h {
+  font-family: Exo, sans-serif;
+  color: white;
+  font-size: 34px;
+  text-align: center;
+}
+.team-sub {
+  padding-bottom: 7px;
+  color: white;
+  font-weight: 400;
+  text-align: center;
+}
+.team-div {
+  margin-bottom: 1px;
+  padding-bottom: 0px;
+  background-color: #fc4e4e;
+}
+.serives-icon {
+  font-family:'Fontawesome webfont', sans-serif;
+  font-size: 79px;
+  text-align: center;
+}
+.servies-head {
+  font-size: 26px;
+}
+.servies-text {
+  font-size: 17px;
+}
+.serives-row {
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.services-row {
+  padding: 23px 5px;
+}
+.section-div-text {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+.section-div-container {
+  padding: 26px 0px 37px;
+  border: 4px solid white;
+}
+.work-div {
+  padding-top: 15px;
+  padding-right: 2px;
+  padding-bottom: 15px;
+}
+@media (max-width: 991px) {
+}
+@media (max-width: 767px) {
+}
+@media (max-width: 479px) {
+}
+
+@font-face {
+  font-family: 'Fontawesome webfont';
+  src: url('../fonts/fontawesome-webfont.woff2') format('undefined'), url('../fonts/fontawesome-webfont.eot') format('embedded-opentype'), url('../fonts/fontawesome-webfont.ttf') format('truetype'), url('../fonts/fontawesome-webfont.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
